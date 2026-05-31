@@ -1,0 +1,85 @@
+SECTION: Fixed Deposits
+SecureBank offers Fixed Deposit (FD) accounts with the following interest rates:
+- 7 days to 45 days: 4.50% per annum
+- 46 days to 90 days: 5.25% per annum
+- 91 days to 180 days: 5.75% per annum
+- 181 days to 1 year: 6.50% per annum
+- 1 year to 2 years: 7.00% per annum
+- 2 years to 5 years: 7.25% per annum
+Senior citizens receive an additional 0.50% on all FD tenures.
+Premature withdrawal is allowed with a 1% penalty on the applicable rate.
+Minimum FD amount is Rs. 10,000. Maximum is Rs. 2 crore per customer.
+
+SECTION: Savings Account
+SecureBank savings accounts offer 3.50% per annum interest on daily balance.
+Minimum Average Monthly Balance (AMB) is Rs. 10,000 for urban branches.
+Minimum AMB for rural branches is Rs. 2,000.
+Non-maintenance of AMB attracts a charge of Rs. 500 per month.
+Free transactions: 5 ATM withdrawals per month at any bank.
+Beyond free limit: Rs. 20 per ATM transaction.
+Internet banking and mobile banking are free for all savings account holders.
+
+SECTION: Home Loan
+SecureBank home loans are available at interest rates starting from 8.50% per annum.
+Loan tenure: 5 years to 30 years.
+Maximum loan amount: Up to 80% of property value (LTV ratio).
+Minimum income requirement: Rs. 25,000 per month for salaried individuals.
+Documents required for home loan application:
+- Identity proof: Aadhaar card, PAN card, or passport
+- Address proof: Utility bill or Aadhaar card
+- Income proof: Last 3 months salary slips and Form 16
+- Bank statements: Last 6 months
+- Property documents: Sale agreement and title deed
+Processing fee: 0.5% of loan amount, maximum Rs. 15,000.
+Pre-payment charges: Nil for floating rate loans.
+
+SECTION: Personal Loan
+Personal loans available from Rs. 50,000 to Rs. 25 lakhs.
+Interest rate: 10.50% to 18.00% per annum depending on credit score.
+Tenure: 1 year to 5 years.
+Minimum CIBIL score required: 700.
+Processing fee: 2% of loan amount.
+Documents: Aadhaar, PAN, last 3 salary slips, 6 months bank statement.
+Disbursement within 48 hours for eligible applicants.
+
+SECTION: Credit Card
+SecureBank offers three credit card variants: Classic, Gold, and Platinum.
+Classic card: Annual fee Rs. 500, credit limit up to Rs. 1 lakh.
+Gold card: Annual fee Rs. 1,000, credit limit up to Rs. 3 lakhs, 2x reward points on dining.
+Platinum card: Annual fee Rs. 2,500, credit limit up to Rs. 10 lakhs, airport lounge access.
+Minimum payment due: 5% of outstanding balance or Rs. 200, whichever is higher.
+Late payment charges: Rs. 500 for bills up to Rs. 10,000; Rs. 1,000 above Rs. 10,000.
+Interest on revolving credit: 3.5% per month (42% per annum).
+Cash advance fee: 2.5% of amount withdrawn, minimum Rs. 500.
+
+SECTION: EMI and Loan Repayment
+Missed EMI charge: Rs. 500 flat fee plus 2% penal interest per month on overdue amount.
+Bounce charge for ECS/NACH: Rs. 500 per instance.
+Loan foreclosure: Allowed after 6 months; no charges on floating rate loans.
+Foreclosure charges on fixed rate loans: 2% of outstanding principal.
+EMI date change: Allowed once per year, Rs. 500 processing fee.
+
+SECTION: Fraud and Security
+If you suspect unauthorized transactions, immediately call 1800-XXX-XXXX (24x7).
+Block your debit or credit card instantly via the SecureBank mobile app under Card Controls.
+Report fraud within 3 days for zero liability protection under RBI guidelines.
+Reporting after 3 days but within 7 days: customer liability capped at Rs. 10,000.
+Reporting after 7 days: liability determined case by case.
+Do not share OTP, CVV, or PIN with anyone including bank employees.
+SecureBank will never ask for your OTP or full card number over phone or email.
+
+SECTION: Account Opening
+To open a savings account, visit any branch with:
+- PAN card (mandatory)
+- Aadhaar card for KYC
+- Two passport-size photographs
+- Initial deposit of Rs. 10,000 (urban) or Rs. 2,000 (rural)
+Online account opening available via the SecureBank website with video KYC.
+Account activation takes 1-2 business days for online applications.
+
+SECTION: NEFT RTGS IMPS
+NEFT: Available 24x7. No minimum amount. Charges: Rs. 2 to Rs. 25 depending on amount.
+RTGS: Minimum Rs. 2 lakhs. Available 7am to 6pm on working days. Charges: Rs. 25 to Rs. 50.
+IMPS: Available 24x7. Up to Rs. 5 lakhs per transaction. Charges: Rs. 5 to Rs. 15.
+UPI: Free, up to Rs. 1 lakh per transaction, Rs. 2 lakhs for verified merchants.
+Note: The AI assistant cannot initiate any of these transfers. Visit branch or use the app.
