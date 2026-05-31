@@ -1,30 +1,17 @@
-# Core API
 fastapi==0.104.1
 uvicorn==0.24.0
 python-multipart==0.0.6
-
-# LangChain stack
 langchain==0.1.20
 langchain-openai==0.1.6
 langchain-core==0.1.52
 langchain-community==0.0.38
 langchain-text-splitters==0.0.2
-
-# LLM
 openai==1.30.1
 tiktoken==0.5.2
-
-# Vector store
-faiss-cpu==1.7.4
+faiss-cpu==1.14.2
 numpy==1.26.4
-
-# HTTP
 httpx==0.25.2
 anyio==3.7.1
 aiohttp==3.9.1
-
-# Pydantic — must match Python 3.11
 pydantic==1.10.13
-
-# Utils
 python-dotenv==1.0.1
