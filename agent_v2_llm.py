@@ -17,7 +17,7 @@ os.makedirs("prompts", exist_ok=True)
 
 # ── LLM setup ─────────────────────────────────────────────────────────────────
 llm = ChatOpenAI(
-    model="gpt-4",
+    model="gpt-4.1",
     temperature=0.2,
     openai_api_key=os.getenv("OPENAI_API_KEY"),
     openai_api_base=os.getenv("OPENAI_BASE_URL"),
